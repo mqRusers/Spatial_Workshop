@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559863282071.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1745060331",
+    "id" : "F4E312D6",
+    "lastKnownWriteTime" : 1561533031,
+    "last_content_update" : 1561533031745,
+    "path" : "~/Spatial workshop/Total Script.R",
+    "project_path" : "Total Script.R",
+    "properties" : {
+        "cursorPosition" : "205,0",
+        "scrollLine" : "186",
+        "source_window_id" : "wearcyh4iqk5z",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
